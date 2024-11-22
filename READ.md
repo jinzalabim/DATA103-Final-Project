@@ -1,1 +1,0 @@
-The original dataset is from [here](https://www.kaggle.com/datasets/parisrohan/credit-score-classification/data?select=test.csv). The original dataset was already split, but to make a better visualizations, we merged the train and test set for a comprehensive EDA before splitting it again.
